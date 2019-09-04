@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnSignUp;
     TextView tvSignin;
     FirebaseAuth mFirebaseAuth;
+    
+    //This is Steven Corrales in CS4261 making a change in your code by commenting. scorrales3 903353126
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
